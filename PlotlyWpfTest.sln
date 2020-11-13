@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlotlyWpfTest", "PlotlyWpfTest\PlotlyWpfTest.csproj", "{9A947B26-E7B4-4472-A58D-363D67388BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A947B26-E7B4-4472-A58D-363D67388BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A947B26-E7B4-4472-A58D-363D67388BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A947B26-E7B4-4472-A58D-363D67388BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A947B26-E7B4-4472-A58D-363D67388BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD1992ED-9DC0-4608-9A83-A71E0D80CDA6}
+	EndGlobalSection
+EndGlobal
